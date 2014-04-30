@@ -1,0 +1,23 @@
+GIT
+  remote: git@github.com:spemmons/redis-rb.git
+  revision: abf65e131103421edfd58d6b328228752a1e5a09
+  specs:
+    redis (3.0.7)
+
+GIT
+  remote: git@github.com:spemmons/spawner.git
+  revision: c3c14e988d7db39c61efd0098c61a4cd9ada3d14
+  specs:
+    spawner (2.0.0)
+
+GEM
+  remote: http://rubygems.org/
+  remote: http://gems.github.com/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  redis!
+  spawner!

@@ -1,0 +1,4 @@
+stats_period: 1
+max_workers: 30
+input_file: 'large.txt'
+log_level: 1
