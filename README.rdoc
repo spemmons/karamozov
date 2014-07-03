@@ -1,4 +1,6 @@
-= Karamozov -- homage to "The Flying Karamozov Brothers" whose juggling feats amaze!...
+= Karamozov
+
+=== Homage to "The Flying Karamozov Brothers" whose juggling feats amaze!...
 
 This gem uses Redis route messages from a router process to some number of worker processes,
 ensuring that new messages from a given same source get routed to the same worker if it is already
